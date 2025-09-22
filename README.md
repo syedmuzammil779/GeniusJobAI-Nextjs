@@ -104,24 +104,7 @@ To learn more about the technologies used in this project:
 - [Gemini API Documentation](https://ai.google.dev/gemini-api)
 - [Neon Documentation](https://neon.tech/docs)
 
-## 🤝 Connect with Me
-
-<a href="https://github.com/DevGoyalG" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/devgoyalg/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/dev_goyal_g/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="https://x.com/dev_goyal_g" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-
+CC: Muzzamil Shah
 ---
 
 <p align="center">
